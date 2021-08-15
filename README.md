@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @jesdev2
+- 👀 I’m interested in programming i guess 
+- 🌱 I’m currently learning python , html , js , css 
+- 💞️ I’m looking to collaborate on anything that i can do 
+- 📫 How to reach me ayouhd3@gmail.com
+- I'm beginner in programming world and i hope i can success in it
